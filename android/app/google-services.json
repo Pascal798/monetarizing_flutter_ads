@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148010522193",
+    "firebase_url": "https://e-portfolio-57aa4.firebaseio.com",
+    "project_id": "e-portfolio-57aa4",
+    "storage_bucket": "e-portfolio-57aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148010522193:android:0dfe6c34b4fa0a99264a70",
+        "android_client_info": {
+          "package_name": "com.example.monetarizing_flutter_ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148010522193-e17qecmr86g5kg8lolgi3mullj0bc8ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAAJPX3nJs_8U-UGpLX2jGwDzUAc0n_6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148010522193-e17qecmr86g5kg8lolgi3mullj0bc8ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
